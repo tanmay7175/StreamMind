@@ -1,0 +1,1 @@
+Califonix AI Q&A App: A local RAG-powered assistant for manufacturing companies. Uses FAISS + Sentence Transformers to embed Excel issue reports and answer queries using Mistral or LLaMA2 via Ollama. Built with Streamlit for instant UI.
